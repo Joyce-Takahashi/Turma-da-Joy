@@ -9,4 +9,6 @@ Você pode entrar em contato comigo 📫
 joycetakahashi@professor.educacao.sp.gov.br
 
 Bora, queridos!
+
+
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM0OTcwYmFjOGFtZTJxbzNsNzJ1cnQ0aXdzdnZoYXZ2MG9iOWtmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
