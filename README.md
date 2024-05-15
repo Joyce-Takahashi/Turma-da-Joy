@@ -1,11 +1,15 @@
 Boas vindas ao meu perfil 💙💙
+
 Meu nome é Joyce Takahashi
 
 Sou professora de Tecnologia e Inovação, e de Tecnologia e Robótica!
+
 Estou utilizando o Alura nas aulas para turmas de Ensino Fundamental Anos Finais e de Ensino Médio.
-Estou me desenvolvendo na linguagem JavaScript
+
+Estou me desenvolvendo na linguagem JavaScript!
+
 Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
-Você pode entrar em contato comigo 📫
+Você pode entrar em contato comigo 📫 :
 joycetakahashi@professor.educacao.sp.gov.br
 
 Bora, queridos!
